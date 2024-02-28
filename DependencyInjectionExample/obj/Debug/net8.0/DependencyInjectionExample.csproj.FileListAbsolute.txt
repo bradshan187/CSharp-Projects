@@ -1,0 +1,14 @@
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.exe
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.deps.json
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.runtimeconfig.json
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.dll
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.pdb
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.AssemblyInfoInputs.cache
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.AssemblyInfo.cs
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.csproj.CoreCompileInputs.cache
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.dll
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\refint\DependencyInjectionExample.dll
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.pdb
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.genruntimeconfig.cache
+C:\CSharpDevelopment\Projects\DependencyInjectionExample\obj\Debug\net8.0\ref\DependencyInjectionExample.dll
