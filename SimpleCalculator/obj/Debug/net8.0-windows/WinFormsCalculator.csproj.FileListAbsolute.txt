@@ -1,0 +1,48 @@
+C:\CSharpDevelopment\Projects\WinFormsCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.exe
+C:\CSharpDevelopment\Projects\WinFormsCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.deps.json
+C:\CSharpDevelopment\Projects\WinFormsCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.runtimeconfig.json
+C:\CSharpDevelopment\Projects\WinFormsCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinFormsCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.pdb
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.CalculatorForm.resources
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.csproj.GenerateResource.cache
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.AssemblyInfo.cs
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\refint\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.pdb
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.genruntimeconfig.cache
+C:\CSharpDevelopment\Projects\WinFormsCalculator\obj\Debug\net8.0-windows\ref\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\bin\Debug\net8.0-windows\WinFormsCalculator.exe
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\bin\Debug\net8.0-windows\WinFormsCalculator.deps.json
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\bin\Debug\net8.0-windows\WinFormsCalculator.runtimeconfig.json
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\bin\Debug\net8.0-windows\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\bin\Debug\net8.0-windows\WinFormsCalculator.pdb
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.CalculatorForm.resources
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.csproj.GenerateResource.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.AssemblyInfo.cs
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\refint\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.pdb
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\WinFormsCalculator.genruntimeconfig.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\Calc\obj\Debug\net8.0-windows\ref\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.exe
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.deps.json
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.runtimeconfig.json
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\bin\Debug\net8.0-windows\WinFormsCalculator.pdb
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.CalculatorForm.resources
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.csproj.GenerateResource.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.AssemblyInfo.cs
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\refint\WinFormsCalculator.dll
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.pdb
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\WinFormsCalculator.genruntimeconfig.cache
+C:\CSharpDevelopment\Projects\WinForms Calculator\SimpleCalculator\obj\Debug\net8.0-windows\ref\WinFormsCalculator.dll

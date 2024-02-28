@@ -1,0 +1,1 @@
+Simple calculator using WinForms. All logic contained in the CalculatorForm.cs
