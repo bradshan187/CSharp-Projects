@@ -1,0 +1,10 @@
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\bin\Debug\CounterMVC.exe.config
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\bin\Debug\CounterMVC.exe
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\bin\Debug\CounterMVC.pdb
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\obj\Debug\CounterMVC.csproj.AssemblyReference.cache
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\obj\Debug\CounterMVC.Properties.Resources.resources
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\obj\Debug\CounterMVC.FormView.resources
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\obj\Debug\CounterMVC.csproj.GenerateResource.cache
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\obj\Debug\CounterMVC.csproj.CoreCompileInputs.cache
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\obj\Debug\CounterMVC.exe
+C:\CSharpDevelopment\Projects\MVC Examples\CounterMVC\obj\Debug\CounterMVC.pdb
