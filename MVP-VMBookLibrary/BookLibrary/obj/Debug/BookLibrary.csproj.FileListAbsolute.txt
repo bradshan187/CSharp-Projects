@@ -1,0 +1,11 @@
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.AssemblyReference.cache
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.Properties.Resources.resources
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.GenerateResource.cache
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.Views.BooksForm.resources
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\CSharpDevelopment\Projects\BookLibrary\MVP-VMBookLibrary\BookLibrary\obj\Debug\BookLibrary.Views.BookDetailForm.resources
